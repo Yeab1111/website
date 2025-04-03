@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Arrivals - Fashion Store</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Fashion Store</div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="new-arrivals">
+        <h1>NEW ARRIVALS</h1>
+        <div class="products">
+            <div class="product">
+                <img src="city_of_shirts.jpg" alt="City of Shirts">
+                <h2>City of Shirts</h2>
+                <p>$690.00</p>
+            </div>
+            <div class="product">
+                <img src="street_smart_hoodie.jpg" alt="Street Smart Hoodie">
+                <h2>Street Smart Hoodie</h2>
+                <p>$7,699</p>
+            </div>
+            <div class="product">
+                <img src="urban_sweat_shirt.jpg" alt="Urban Sweat Shirt">
+                <h2>Urban Sweat Shirt</h2>
+                <p>$3,000.00</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Fashion Store. All rights reserved.</p>
+    </footer>
+</body>
+</html>
